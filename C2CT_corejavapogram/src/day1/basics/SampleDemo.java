@@ -8,10 +8,9 @@ public class SampleDemo {
 		c=a+b;
 		System.out.println("addition of a="+a+" and b="+b+" is "+c);
 		
-	}
-	
-	
-        
+		
+		
+	} 
 	}
 
 
