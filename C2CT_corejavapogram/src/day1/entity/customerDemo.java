@@ -1,4 +1,4 @@
-package day.entity;
+package day1.entity;
 
 public class customerDemo {
 
