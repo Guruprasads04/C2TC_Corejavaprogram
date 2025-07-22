@@ -1,4 +1,4 @@
-package studentA1;
+package entityclassassignment1;
 
 public class student {
      public int sid;

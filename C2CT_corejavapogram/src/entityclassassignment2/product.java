@@ -1,4 +1,4 @@
-package productA2;
+package entityclassassignment2;
 
 public class product {
 	private int pid;

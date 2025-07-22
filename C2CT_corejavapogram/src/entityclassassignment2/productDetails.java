@@ -1,4 +1,4 @@
-package productA2;
+package entityclassassignment2;
 
 public class productDetails {
 
@@ -11,7 +11,7 @@ public class productDetails {
 			System.out.println("customer id :"+p.getPid());
 			System.out.println(" item :"+p.getItem());
 			System.out.println(" price :"+p.getPrice());
-			System.out.println(p);
+			System.out.println(p); 
 	}
 
 }
