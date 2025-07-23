@@ -1,4 +1,4 @@
-package day2.constructor;
+package day2;
 
 public class CustomerDemo {
 
