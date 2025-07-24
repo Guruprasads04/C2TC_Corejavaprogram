@@ -17,5 +17,6 @@ public class Wordpad extends Notepad{
 
     public boolean isBold() {
         return isBold;
+    }
 
 }
