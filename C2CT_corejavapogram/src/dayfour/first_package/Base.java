@@ -5,9 +5,6 @@ public class Base {
 		public int varPublic=20;
 		private int varPrivate=30;
 		protected int varProtected=40;
-		
-		
-
 		void methodDefault()
 		{
 			System.out.println("Default access Base class");
