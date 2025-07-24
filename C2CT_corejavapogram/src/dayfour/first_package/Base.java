@@ -1,10 +1,10 @@
 package dayfour.first_package;
 
 public class Base {
-		int varDefault=10;
-		public int varPublic=20;
-		private int varPrivate=30;
-		protected int varProtected=40;
+		int varDefault=2;
+		public int varPublic=4;
+		private int varPrivate=6;
+		protected int varProtected=7;
 		void methodDefault()
 		{
 			System.out.println("Default access Base class");
