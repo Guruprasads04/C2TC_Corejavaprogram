@@ -21,7 +21,6 @@ public class Student extends Person{
 	}
 	public Student() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 	public Student(int uid, String coursename) {
 		super();
